@@ -47,6 +47,15 @@ export default {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+        // Events platform custom colors
+        "hero-bg": "hsl(var(--hero-background))",
+        "events-section": "hsl(var(--events-section))",
+        "event-card": "hsl(var(--event-card))",
+        "price-tech": "hsl(var(--price-badge-tech))",
+        "price-free": "hsl(var(--price-badge-free))",
+        "price-paid": "hsl(var(--price-badge-paid))",
+        "orange": "hsl(var(--orange-accent))",
+        "live": "hsl(var(--live-indicator))",
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",
           foreground: "hsl(var(--sidebar-foreground))",
